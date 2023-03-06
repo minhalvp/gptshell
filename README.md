@@ -1,7 +1,5 @@
 
 # gptshell
-you dont know commands but gpt does 😁
-
 gptshell is a command-line interface which allows you to execute commands based on provided description and vice versa
 
 ## How to use it
